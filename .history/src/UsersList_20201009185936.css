@@ -1,0 +1,33 @@
+.the-list {
+    padding-left: 0px;
+    list-style: none;
+    width: 250px;
+
+
+}
+
+.the-list li {
+    padding: 15px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: #333;
+    border-radius: 5px;
+    position: relative;
+
+}
+
+.the-list li:hover{
+    background-color: pink;
+}
+
+.the-list li span {
+    position: absolute;
+    right: 10px;
+    font-weight: bold;
+}
+
+.the-list li span:hover{
+    color: purple;
+    cursor: pointer;
+}

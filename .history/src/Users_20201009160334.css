@@ -1,0 +1,14 @@
+.users-main form input {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #fff;
+    width: 165px;
+}
+
+.users-main form button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    background-color: #0066ff;
+    color: white;
+}
